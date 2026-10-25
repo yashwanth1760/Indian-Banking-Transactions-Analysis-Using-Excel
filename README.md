@@ -2,8 +2,7 @@
 
 > End-to-end Excel project: raw banking transaction data → data audit and cleaning in **Power Query** → **Pivot Tables** → interactive **dashboard** → business insights and recommendations.
 
-![Dashboard](<img width="1685" height="668" alt="image" src="https://github.com/user-attachments/assets/681fb3e5-9c8e-47f4-aa30-c6031a23fdb5" />
-)
+![Dashboard](https://github.com/user-attachments/assets/41d3aa92-08b1-4ed1-b988-72adf38acfa2)
 
 ---
 
@@ -249,9 +248,9 @@ Data cleaning · Power Query · Pivot Tables · Pivot Charts · Dashboard design
 
 ## 👤 11. Author
 
-**Yash**: B.Tech Civil Engineering (NIT Warangal), moving into data analytics
+**Yashwanth Chalamalla**
 
-- LinkedIn: `(https://www.linkedin.com/in/yashwanth-chalamalla/)`
+- LinkedIn: `https://www.linkedin.com/in/yashwanth-chalamalla/`
 - Email: `chalamallan11@gmail.com`
 
 ⭐ If you like this project, please star the repository.
