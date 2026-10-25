@@ -232,7 +232,6 @@ Indian-Banking-Transactions-Dashboard/
 │   ├── Indian_Banking_data.xlsx            # original raw dataset
 │   └── Banking_Transactions_Cleaned.xlsx   # cleaned data, pivot tables, dashboard
 │   ├── dashboard.png
-│   └── pivot_tables.png
 |   └── README.md
 ```
 
